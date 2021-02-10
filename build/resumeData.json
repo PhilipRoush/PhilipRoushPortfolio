@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Philip Roush",
+    "occupation": "Full Stack Software Engineer",
+    "description": "Available to start work immediately. Willing and able to relocate",
+    "image": "MyAvatar.pdf",
+    "bio": "My name is Philip, I'm a Full Stack Developer. Currently Looking For a New Company to Join! Experienced in Ruby on Rails and React/JavaScript based programming with a background in Oil and Gas and Hospitality/Customer Service. Ability to create a full stack web application from scratch using cross-platform coding languages-- individually and/or as member of a team. With a background in the Hospitality and Customer Service, it has provided diverse and strong interpersonal skills that will positively impact a teams cohesiveness and productivity. Excels in giving input when appropriate, but recognizes the importance of effective listening and how crucial it also is to efficacious workplace communication.",
+    "contactmessage": "Get in touch with me to receive further details!",
+    "email": "Philipdroush@gmail.com",
+    "phone": "+15129632830",
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78759"
+    },
+    "website": "https://my.indeed.com/p/512hvbc",
+    "resumedownload": "https://my.indeed.com/p/512hvbc",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/philiproush/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/philiproush/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/philiproush",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "   ",
+    "education": [
+      {
+        "school": "Texas State University",
+        "degree": "Bachelor's Degree, Geography: Resource and Environmental Studies",
+        "graduated": "December 2016",
+        "description": "BS with a minor in Business"
+      },
+      {
+        "school": "Flatiron School",
+        "degree": "Certificate",
+        "graduated": "October 2020",
+        "description": "Full Stack Software Engineering"
+      },
+      {
+        "school": "Nucamp",
+        "degree": "Certificate",
+        "graduated": "January 2020",
+        "description": "Intro to HTML, CSS, and JavaScript"
+      }
+    ],
+    "work": [
+      {
+        "company": "Discovery Land Company",
+        "title": "Valet Manager/Golf Services/Member Services",
+        "years": "September 2017 - January 2020",
+        "description": "Worked for 3 different Discovery Land Company properties. Part of two property opening teams. Manager/supervisor of a valet staff of 12-15 employees. Took care of members needs and wants."
+      },
+      {
+        "company": "FieldPoint Petroleum Corporation",
+        "title": "GIS Supervisor & Account Payables Attendant",
+        "years": "April 2013 - January 2017",
+        "description": "Devoloped and oversaw the GIS department. Created maps of current and potential oil projects according to client specifications. Processed an average of 100 invoices per week. Obtained and entered vendor w-9 and set up of new vendors. Responsible for the process of annual filings of 1099s."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Ruby on Rails",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Iskwobel Golf",
+        "category": "Full Stack Ruby on Rails Backend and ReactJS Front End...",
+        "image": "IGolf.pdf",
+        "url": "https://www.youtube.com/watch?v=30DBupP9Go8"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Phil is an ambitious and charismatic teammate who would be a unique asset to any organization. His ability to think outside the box and use new technologies to streamline processes ensures the job gets done as efficiently as possible while creating a fun and exciting work environment.",
+        "user": "Brennan Medford-- Director of Sales at ProNovos Construction Analytics"
+      }
+    ]
+  }
+}
